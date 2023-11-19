@@ -4,3 +4,4 @@
 
 ## Artificial Intelligence
 - AdSale Prediction
+- YOLO Introduction for Object Detection
